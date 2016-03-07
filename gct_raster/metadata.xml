@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20151208</CreaDate><CreaTime>16534600</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="Feature to Raster" ToolSource="d:\arcgis\desktop10.3\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureToRaster" Date="20151208" Time="165346">FeatureToRaster "C:\Users\Kehong Yi\Desktop\GEOM2007\New folder\gct_clip.shp" COL3 "C:\Users\Kehong Yi\Desktop\GEOM2007\New folder\gct_raster" 150</Process></lineage></DataProperties></Esri></metadata>

@@ -1,0 +1,5 @@
+2011 National Household Survey (NHS) Profiles Files / Profile of Census Tracts
+COL0 - GEO UID
+COL1 - Province code
+COL2 - Census Tract name
+COL3 - Citizenship - Both sexes / Total population in private households by citizenship; Both sexes / Canadian citizens; Both sexes / Canadian citizens aged under 18; Both sexes
